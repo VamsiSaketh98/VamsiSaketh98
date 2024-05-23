@@ -6,7 +6,11 @@
 - LinkedIn - [Link]([url](https://www.linkedin.com/in/vamsi-saketh-7b8646192/))
 - Twitter -  [Link]([url](https://x.com/VamsiSaketh))
 - My Portfolio - [Link]([url](https://portfolio-v2-rho-mauve.vercel.app/))
-  
+
+
+  <br />
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=VamsiSaketh98&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <!---
 VamsiSaketh98/VamsiSaketh98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
