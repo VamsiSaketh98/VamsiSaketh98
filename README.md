@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @VamsiSaketh98
 - 👀 I’m interested in Coding and Stock Market
-- 🌱 I’m currently learning Full stack web development and Interested in Machine learning 
+- 🌱 I’m currently learning Full stack web development and Interested in Machine learning.
 
 
   <br />
