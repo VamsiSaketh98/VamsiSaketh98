@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @VamsiSaketh98
 - 👀 I’m interested in Coding and Stock Market
-- 🌱 I’m currently learning Salesforce Development.
+- 🌱 I’m currently learning Machine learning
 
 
   <br />
